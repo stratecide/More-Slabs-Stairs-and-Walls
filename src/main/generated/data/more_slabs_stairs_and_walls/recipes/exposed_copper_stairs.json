@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "exposed_copper_stair",
+  "category": "building",
+  "group": "copper_stairs",
   "key": {
     "#": {
       "item": "minecraft:exposed_copper"

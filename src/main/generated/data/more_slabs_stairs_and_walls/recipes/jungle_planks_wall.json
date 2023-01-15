@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "jungle_planks_wall",
+  "category": "building",
+  "group": "plank_walls",
   "ingredients": [
     {
       "item": "minecraft:jungle_fence"

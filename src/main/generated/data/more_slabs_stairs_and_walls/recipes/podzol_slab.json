@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "podzol_slab",
+  "category": "building",
+  "group": "grass_slabs",
   "key": {
     "#": {
       "item": "minecraft:podzol"

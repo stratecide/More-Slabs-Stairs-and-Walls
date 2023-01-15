@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "weathered_copper_stair",
+  "category": "building",
+  "group": "copper_stairs",
   "key": {
     "#": {
       "item": "minecraft:weathered_copper"

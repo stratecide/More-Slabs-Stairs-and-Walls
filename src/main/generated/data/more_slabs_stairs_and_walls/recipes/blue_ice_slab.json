@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "blue_ice_slab",
+  "category": "building",
+  "group": "ice_slabs",
   "key": {
     "#": {
       "item": "minecraft:blue_ice"
