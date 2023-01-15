@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "mycelium_stair",
+  "category": "building",
+  "group": "grass_stairs",
   "key": {
     "#": {
       "item": "minecraft:mycelium"

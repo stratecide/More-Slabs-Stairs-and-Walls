@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "warped_nylium_stair",
+  "category": "building",
+  "group": "grass_stairs",
   "key": {
     "#": {
       "item": "minecraft:warped_nylium"

@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "emerald_block_wall",
+  "category": "building",
+  "group": "metal_walls",
   "key": {
     "#": {
       "item": "minecraft:emerald_block"

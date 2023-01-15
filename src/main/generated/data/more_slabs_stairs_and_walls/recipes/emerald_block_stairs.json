@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "emerald_block_stair",
+  "category": "building",
+  "group": "metal_stairs",
   "key": {
     "#": {
       "item": "minecraft:emerald_block"
