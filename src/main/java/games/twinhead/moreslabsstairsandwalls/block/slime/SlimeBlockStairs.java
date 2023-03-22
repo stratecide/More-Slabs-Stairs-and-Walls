@@ -28,7 +28,7 @@ public class SlimeBlockStairs extends StairsBlock {
             if (entity.bypassesLandingEffects()) {
                 super.onLandedUpon(world, state, pos, entity, fallDistance);
             } else {
-                entity.handleFallDamage(fallDistance, 0.0F, DamageSource.FALL);
+                entity.handleFallDamage(fallDistance, 0.0F, world.getDamageSources().fall());
             }
 
     }
